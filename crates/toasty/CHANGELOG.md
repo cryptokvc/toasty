@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.11.1](https://github.com/tokio-rs/toasty/compare/toasty-v0.11.0...toasty-v0.11.1) - 2026-10-07
+
+### Fixed
+
+- *(macros)* reject mismatched belongs_to key types in embedded enums ([#1277])
+
+[#1277]: https://github.com/tokio-rs/toasty/pull/1277
+
 ## [0.11.0](https://github.com/tokio-rs/toasty/compare/toasty-v0.10.0...toasty-v0.11.0) - 2026-09-24
 
 ### Added
